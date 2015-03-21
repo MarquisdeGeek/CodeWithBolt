@@ -1,6 +1,6 @@
 reset
 system github login marquisdegeek ...
-system github save Paint_app First commit
+system github save Paint_app "Second commit2
 
 
 colour images "red"
